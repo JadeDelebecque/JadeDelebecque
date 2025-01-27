@@ -29,10 +29,9 @@
 ---
 
 ## 💬 À propos de moi
-- 🏅 **Déléguée** L1, L2 et L3, démontrant mes compétences en leadership et organisation.
-- 🎨 **Présidente de Day’Clic** : Photographie et gestion d’événements culturels.
-- 🎲 Passionnée par les jeux de rôle (Laelith), les jeux vidéo (The Last of Us / Outer Wilds), et le cinéma (Parasite).
 - 🌍 En recherche d'une **alternance en cybersécurité** pour un cycle ingénieur à EPITA.
+- 🏅 **Déléguée** L1, L2 et L3, démontrant mes compétences en leadership et organisation.
+- 🎲 Passionnée par les jeux de rôle (Laelith), les jeux vidéo (The Last of Us / Outer Wilds), et le cinéma (Parasite).
 
 ---
 
